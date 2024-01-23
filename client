@@ -1,0 +1,18 @@
+clothing-donation-registration/
+|-- client/
+|   |-- public/
+|   |   |-- index.html
+|   |   |-- favicon.ico
+|   |-- src/
+|   |   |-- App.js
+|   |   |-- index.js
+|   |   |-- components/
+|   |   |   |-- DonationForm.js
+|   |   |   |-- ConfirmationPage.js
+|-- server/
+|   |-- package.json
+|   |-- server.js
+|   |-- routes/
+|   |   |-- donationRoutes.js
+|-- package.json
+|-- README.md
